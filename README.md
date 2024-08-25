@@ -1,2 +1,1 @@
-# tanzu-catalog
-Catalog For Backstage
+Sample org structure for application catalog
